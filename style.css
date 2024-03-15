@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: rgb(148, 127, 255);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    text-align: center;
+}
+
+h1{
+    color: brown;
+}
+
+ul{
+    list-style: none;
+    padding: 50px;
+}
+
+li{
+    background-color: rgb(79, 216, 79);
+    border: 1px solid rgb(18, 17, 17);
+    padding: 3px;
+    margin: 6px;
+    border-radius: 7px;
+}
+
+button{
+    padding: 10px 40px;
+    font-size: 16px;
+    cursor: pointer;
+}
